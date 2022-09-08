@@ -7,5 +7,5 @@ collection: publications
 permalink: /publication/PhDthesis
 date: 2023-09-01
 year: 2023
-<!-- paperurl: 'http://A-karimKati.github.io/files/PhDthesis.pdf'-->
+paperurl: 'http://A-karimKati.github.io/files/PhDthesis.pdf'
 ---

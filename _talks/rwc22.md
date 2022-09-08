@@ -6,7 +6,7 @@ permalink: /talks/rwc22
 venue: "Real World Crypto Symposium"
 date: 2022-04-13
 location: "Amsterdam, The Netherlands"
-<!--slidesurl: 'http://simon-oya.github.io/files/oya-2018-12-10-wifs-slides.pdf'-->
+slidesurl: 'http://A-karimKati.github.io/files/rwc22.pdf'
 ---
 [More information here](https://rwc.iacr.org/2022/)
 
