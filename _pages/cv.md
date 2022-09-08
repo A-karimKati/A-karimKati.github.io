@@ -24,15 +24,7 @@ Work experience
   * ENCRYPTO group at Technische Universität Darmstadt
   * Supervisor: Prof. Dr. Thomas Schneider 
 
-<!--
-Journal Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% if post.type == 'journal' %}
-      {% include archive-single-kati.html %}
-    {% endif %}
-  {% endfor %}</ul>
--->
+
 Conference Publications
 ======
   <ul>{% for post in site.publications reversed %}
