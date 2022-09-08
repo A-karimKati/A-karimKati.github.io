@@ -44,7 +44,7 @@ Conference Publications
 Talks
 ======
 <ul>{% for post in site.publications reversed %}
-  {% if post.type == 'conference' and post.slidesurl %}
+  {% if post.type == 'tutorial' and post.slidesurl %}
     <li>{% include archive-single-talk-kati.html %}</li>
   {% endif %}
 {% endfor %}</ul>
@@ -60,7 +60,6 @@ PhD Thesis
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
-    TODO: Modify this include!!
     {% include archive-single-cv.html %}
     {% include archive-single-teaching-kati.html %}
   {% endfor %}</ul>

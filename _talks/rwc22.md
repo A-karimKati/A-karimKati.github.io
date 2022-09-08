@@ -1,7 +1,7 @@
 ---
 title: "All about that Data: Towards a Practical Assessment of Attacks on Encrypted Search"
 collection: talks
-type: "Talk"
+type: "tutorial"
 permalink: /talks/rwc22
 venue: "Real World Crypto Symposium"
 date: 2022-04-13
