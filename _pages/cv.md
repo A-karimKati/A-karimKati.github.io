@@ -33,25 +33,3 @@ Conference Publications
     {% endif %}
   {% endfor %}</ul>
   
-Talks
-======
-<ul>{% for post in site.publications reversed %}
-  {% if post.type == 'tutorial' %}
-    <li>{% include archive-single-talk-kati.html %}</li>
-  {% endif %}
-{% endfor %}</ul>
-
-PhD Thesis
-======
-<ul>{% for post in site.talks reversed %}
-  {% if post.type == 'thesis' %}
-    {% include archive-single-kati.html %}
-  {% endif %}
-{% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-    {% include archive-single-teaching-kati.html %}
-  {% endfor %}</ul>
