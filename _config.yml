@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abdelkarim KATI"
 title_separator          : "-"
 name                     : &name "Abdelkarim KATI"
-description              : &description "PhD student at Mohammed VI Polytechnic University"
+description              : &description "PhD candidate at Mohammed VI Polytechnic University."
 url                      : https://A-karimKati.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "A-karimKati.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abdelkarim KATI"
   avatar           : "kati.jpg"
-  bio              : "PhD student at Mohammed VI Polytechnic University"
+  bio              : "PhD candidate at Mohammed VI Polytechnic University"
   location         : "Ben-Guerir, Morocco"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=NphPGKcAAAAJ" #Replace with my scholar link
-  email            : "abdelkarim,kati at um6p.ma"
+  email            : "abdelkarim.kati at um6p.ma"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "A-karimKati"
+  github           : "A-karimKati"
   google_plus      :
   keybase          :
   instagram        :
