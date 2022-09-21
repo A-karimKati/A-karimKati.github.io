@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Mohammed VI Polytechnic University, Morocco.
-I am a member of School of Computer and Communication Sciences [SCCS,](https://www.um6p-cs.ma/en/research/) and since Jul'20 I have been affiliated with Brown University [ESL.](https://esl.cs.brown.edu/)
+I'm a PhD candidate (third year) in __computer security__ and __applied cryptography__ at [SCCS ](https://www.um6p-cs.ma/en/research/)  Mohammed VI Polytechnic University. 
+In Jul'20 I also started an affiliate position with Brown University [ESL.](https://esl.cs.brown.edu/)
+
+Broadly, my research focuses on privacy and Real-World applications of cryptography with an emphasis on design and cryptanalysis of efficient __ESA__ "Encrypted Search Algorithms" using techniques from cryptography and algorithms.
 My thesis is co-supervised by [Tarik Moataz](https://tarikmoataz.com/) and [Prof. Seny Kamara](https://cs.brown.edu/people/seny/).
-My research focuses Real-world applications of cryptography with an emphasis on design and cryptanalysis of encrypted search algorithms.
+
+
