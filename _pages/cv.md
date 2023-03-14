@@ -21,7 +21,7 @@ Education
 Internships
 ======
 * Research Internship **(Oct-2022 --> March-2023)**
-  * ENCRYPTO group at Technische Universität Darmstadt, hosted by Prof. Dr. Thomas Schneider.
+  * ENCRYPTO group at Technische Universität Darmstadt, hosted by [Prof. Dr. Thomas Schneider](https://www.encrypto.cs.tu-darmstadt.de/team_encrypto/thomas_schneider/index.en.jsp).
   
 
 Grants
