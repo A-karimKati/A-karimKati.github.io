@@ -43,12 +43,3 @@ Publications
     {% endif %}
   {% endfor %}</ul>
   
-Talks
-======
-<ul>{% for post in site.publications reversed %}
-  {% if post.type == 'tutorial' %}
-    <li>{% include archive-single-talk-kati.html %}</li>
-  {% endif %}
-{% endfor %}</ul>
-
-
