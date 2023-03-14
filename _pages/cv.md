@@ -18,14 +18,24 @@ Education
 * **Sept 2011 - Jul 2013** - Preparatory Classes to Higher Engineering Schools *(Technical school Med 5, Morocco)*
 
 
-Work experience
+Internships
 ======
-* Fall 2022: Research Internship
+* Research Internship *(Oct-2022 --> March-2023)*
   * ENCRYPTO group at Technische Universität Darmstadt
-  * Supervisor: Prof. Dr. Thomas Schneider 
+  * Host : Prof. Dr. Thomas Schneider 
+
+Grants
+======
+* **2022**
+  * Student Travel Grant by the International Association for Cryptologic Research to attend *AsiaCrypt'22*.
+  * Student Travel Grant by the International Association for Cryptologic Research to attend *Real World Crypto Symposium'23*.
+* **Oct-2019**
+  * PhD Grant at Mohammed VI Polytechnic University, Morocco (Over 4 years).
+* **Oct-2018**
+  * Grant to undertake a predoctoral research fellowship of 1 year at Mohammed VI Polytechnic University, Morocco.
 
 
-Conference Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% if post.type == 'conference' %}
@@ -33,3 +43,12 @@ Conference Publications
     {% endif %}
   {% endfor %}</ul>
   
+Talks
+======
+<ul>{% for post in site.publications reversed %}
+  {% if post.type == 'tutorial' %}
+    <li>{% include archive-single-talk-kati.html %}</li>
+  {% endif %}
+{% endfor %}</ul>
+
+
