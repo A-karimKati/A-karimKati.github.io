@@ -20,17 +20,17 @@ Education
 
 Internships
 ======
-* Research Internship *(Oct-2022 --> March-2023)*
-  * ENCRYPTO group at Technische Universität Darmstadt
-  * Host : Prof. Dr. Thomas Schneider 
+* Research Internship **(Oct-2022 --> March-2023)**
+  * ENCRYPTO group at Technische Universität Darmstadt, hosted by Prof. Dr. Thomas Schneider.
+  
 
 Grants
 ======
 * **2022**
-  * Student Travel Grant by the International Association for Cryptologic Research to attend *AsiaCrypt'22*.
-  * Student Travel Grant by the International Association for Cryptologic Research to attend *Real World Crypto Symposium'23*.
+  * Student Travel Grant by the International Association for Cryptologic Research to attend **AsiaCrypt'22**.
+  * Student Travel Grant by the International Association for Cryptologic Research to attend **Real World Crypto Symposium'23**.
 * **Oct-2019**
-  * PhD Grant at Mohammed VI Polytechnic University, Morocco (Over 4 years).
+  * PhD Grant at Mohammed VI Polytechnic University, Morocco **(Over 4 years)**.
 * **Oct-2018**
   * Grant to undertake a predoctoral research fellowship of 1 year at Mohammed VI Polytechnic University, Morocco.
 
