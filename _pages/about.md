@@ -7,10 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate (third year) in __computer security__ and __applied cryptography__ at [SCCS ](https://www.um6p-cs.ma/en/research/)  Mohammed VI Polytechnic University. 
-In Jul'20 I also started an affiliate position with Brown University [ESL.](https://esl.cs.brown.edu/)
 
-Broadly, my research focuses on privacy and Real-World applications of cryptography with an emphasis on design and cryptanalysis of efficient __ESA__ "Encrypted Search Algorithms" using techniques from cryptography and algorithms.
-My thesis is co-supervised by [Tarik Moataz](https://tarikmoataz.com/) and [Prof. Seny Kamara](https://cs.brown.edu/people/seny/).
+I’m a third year PhD student in computer security at Mohammed VI Polytechnic University [SCCS ](https://www.um6p-cs.ma/en/research/) where I’m advised by [Tarik Moataz](https://tarikmoataz.com/).
+I am also member of the Encrypted Search Lab [ESL.](https://esl.cs.brown.edu/) at Brown University and I work closely with [Prof. Seny Kamara](https://cs.brown.edu/people/seny/). 
+Recently, I have spent a semester as a visiting researcher at the Cryptography and Engineering Group (ENCRYPTO) at TU Darmstadt hosted by [Prof. Dr. Thomas Schneider](https://www.encrypto.cs.tu-darmstadt.de/team_encrypto/thomas_schneider/index.en.jsp).
+I work in the area of applied cryptography with a focus on encrypted search where I maintain interest in the design and cryptanalysis of new and existing constructions. 
+In particular, I have been recently working on assessing the real-world security implications of existing encrypted search attacks.
+
+
+
+Internships & Grants 
+======
+* **2022**
+  * Research Internship **(Oct-2022 --> March-2023)**
+    * ENCRYPTO group at Technische Universität Darmstadt.
+  * Student Travel Grant by the International Association for Cryptologic Research to attend **AsiaCrypt'22**.
+  * Student Travel Grant by the International Association for Cryptologic Research to attend **Real World Crypto Symposium'23**.
+
+* **Oct-2019**
+  * PhD Grant at Mohammed VI Polytechnic University, Morocco **(Over 4 years)**.
+
+* **Oct-2018**
+  * Grant to undertake a predoctoral research fellowship of 1 year at Mohammed VI Polytechnic University, Morocco.
+
+
 
 

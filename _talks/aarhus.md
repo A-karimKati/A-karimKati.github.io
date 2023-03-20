@@ -1,5 +1,5 @@
 ---
-title: "Cryptanalysis Strikes Back, A Realistic assessment of leakage attacks on Encrypted Search."
+title: "__Cryptanalysis Strikes Back, A Realistic assessment of leakage attacks on Encrypted Search__."
 collection: talks
 type: "tutorial"
 permalink: /talks/aarhus
