@@ -1,5 +1,5 @@
 ---
-title: '__SoK: Cryptanalysis of Encrypted Search with LEAKER – A framework forLEakage AttacK Evaluation on Real-world data__.'
+title: '<strong>SoK: Cryptanalysis of Encrypted Search with LEAKER – A framework forLEakage AttacK Evaluation on Real-world data</strong>.'
 authors: 'S. Kamara, <strong>A. Kati</strong>, T. Moataz, T. Schneider, A. Treiber and M. Yonli'
 type: 'conference'
 booktitle: '2022 IEEE 7th European Symposium on Security and Privacy (EuroS&P)'
