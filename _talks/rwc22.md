@@ -1,5 +1,5 @@
 ---
-title: '<strong>All about that Data: Towards a Practical Assessment of Attacks on Encrypted Search</strong>.'
+title: '<strong>All about that Data: Towards a Practical Assessment of Attacks on Encrypted Search</strong>'
 collection: talks
 type: 'tutorial'
 permalink: /talks/rwc22
