@@ -13,4 +13,4 @@ slidesurl: 'TBD'
 
 ---
 
-[Download paper here](http://Abdelkarim-Kati.github.io/files/maple.pdf)
+[Download paper here](http://A-karimKati.github.io/files/maple.pdf)
