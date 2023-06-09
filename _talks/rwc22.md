@@ -5,7 +5,7 @@ type: 'tutorial'
 permalink: /talks/rwc22
 venue: "Real World Crypto Symposium"
 date: 2022-04-13
-location: "Amsterdam, The Netherlands"
+location: "Amsterdam, The Netherlands. Talk given in-person by Amos Treiber"
 slidesurl: 'http://A-karimKati.github.io/files/rwc.pdf'
 ---
 [More information here](https://rwc.iacr.org/2022/)
