@@ -8,7 +8,7 @@ permalink: /publication/maple
 year: 2023
 pages: 'TBD'
 location: 'TBD'
-paperurl: 'http://Abdelkarim-Kati.github.io/files/maple.pdf'
+paperurl: 'http://A-karimKati.github.io/files/maple.pdf'
 slidesurl: 'TBD'
 
 ---
