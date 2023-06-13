@@ -5,7 +5,7 @@ type: 'tutorial'
 permalink: /talks/rwc22
 venue: "UM6P JDD Second Edition"
 date: 2022-06-24
-location: "Ben-Guerir, Morocco. <em>Slides used are from our RWC'22 Talk.</em>"
+location: "UM6P JDD Second Edition, Ben-Guerir Morocco. Slides used are from our <strong>RWC'22</strong> Talk"
 slidesurl: 'http://A-karimKati.github.io/files/rwc.pdf'
 ---
 [More information here](https://rwc.iacr.org/2022/)

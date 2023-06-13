@@ -5,7 +5,7 @@ type: 'tutorial'
 permalink: /talks/aarhus
 venue: "Aarhus Crypto Seminar"
 date: 2022-01-24
-location: "Aarhus University"
+location: "Aarhus Crypto Seminar, Aarhus University"
 slidesurl: 'http://A-karimKati.github.io/files/aarhus.pdf'
 ---
 [More information here](https://cs.au.dk/research/cryptography-and-security/seminar)
