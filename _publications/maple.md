@@ -2,7 +2,7 @@
 title: '<strong>MAPLE: MArkov Process Leakage attacks on Encrypted Search</strong>'
 authors: 'S. Kamara, <strong>A. Kati</strong>, T. Moataz, J. DeMaria, A. Park and A. Treiber'
 type: 'conference'
-booktitle: 'Under Submission'
+booktitle: 'Under-Submission'
 collection: publications
 permalink: /publication/maple
 year: 2023
