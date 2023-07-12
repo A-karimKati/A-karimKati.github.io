@@ -19,8 +19,8 @@ In particular, I have been recently working on assessing the real-world security
 
 __Grants & Fellowships__
 
-  - PhD research _fellowship_ at Mohammed VI Polytechnic University, __October '2019 - present__.
-  - Research assistant _fellowship_ at Mohammed VI Polytechnic University, __October '2018 - October '2019__.
+  - PhD research _fellowship_ at Mohammed VI Polytechnic University, __Oct'19 - present__.
+  - Research assistant _fellowship_ at Mohammed VI Polytechnic University, __Oct'18 - Oct'19__.
   - Student travel _grant_ by the International Association for Cryptologic Research to attend [AsiaCrypt '2022](https://asiacrypt.iacr.org/2022/).
   - Student travel _grant_ by the International Association for Cryptologic Research to attend [Real World Crypto Symposium '2023](https://rwc.iacr.org/2023/).
 
