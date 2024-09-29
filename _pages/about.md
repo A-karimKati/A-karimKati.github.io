@@ -23,7 +23,7 @@ In late 2022, I was fortunate enough to undertake a research visit at the Techni
 __Grants & Fellowships__
 
   - PhD research fellowship at Mohammed VI Polytechnic University, <span style="color: #333333;font-weight:600;">2019 &ndash; 2024</span>.
-  - Research assistant fellowship at Mohammed VI Polytechnic University, <span style="color: #333333;font-weight:600;">2018 &ndash; 2029</span>.
+  - Research assistant fellowship at Mohammed VI Polytechnic University, <span style="color: #333333;font-weight:600;">2018 &ndash; 2019</span>.
   - Student travel grant by the International Association for Cryptologic Research to attend [AsiaCrypt '2022](https://asiacrypt.iacr.org/2022/).
   - Student travel grant by the International Association for Cryptologic Research to attend [Real World Crypto Symposium '2023](https://rwc.iacr.org/2023/).
 
