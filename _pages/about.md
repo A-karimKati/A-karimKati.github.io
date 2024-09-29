@@ -8,19 +8,21 @@ redirect_from:
 ---
 
 
-Hi! I’m a PhD candidate at the College of Computing, __Mohammed VI Polytechnic University__ [(UM6P)](https://www.um6p-cs.ma/en/research/) where I’m advised by [Tarik Moataz](https://tarikmoataz.com/).
-I am also a research fellow at __Encrypted Search Lab__ [(ESL)](https://esl.cs.brown.edu/), Brown University where I work closely with [Prof. Seny Kamara](https://cs.brown.edu/people/seny/). 
-Recently, I have spent a semester as a visiting researcher at the Cryptography and Engineering Group (__ENCRYPTO__) at TU Darmstadt hosted by [Prof. Dr. Thomas Schneider](https://www.encrypto.cs.tu-darmstadt.de/team_encrypto/thomas_schneider/index.en.jsp).
+Hi!
 
-I work in the area of applied cryptography with a focus on encrypted search where I maintain interest in the design and cryptanalysis of new and existing constructions. 
-In particular, I have been recently working on assessing the real-world security implications of existing encrypted search attacks.
+I am a Post-Doctoral Researcher and a member of the [CrySP](https://crysp.uwaterloo.ca/) group at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo.
+I completed my PhD on __Applied Cryptography__ at [SCCS ](https://www.um6p-cs.ma/en/research/)  Mohammed VI Polytechnic University, under the kind supervision of [Tarik Moataz](https://tarikmoataz.com/). 
+During that time, I conducted research on privacy and Real-World applications of cryptographic primitives with an emphasis 
+on the design and cryptanalysis of efficient __ESA__ "Encrypted Search Algorithms".
+I am also a research fellow at Brown University Encrypted Search Lab [ESL](https://esl.cs.brown.edu/), where I work closely with [Prof. Seny Kamara](https://cs.brown.edu/people/seny/). 
+In late 2022, I was fortunate enough to undertake a research visit at the Technische Universität Darmstadt Cryptography and Engineering Group [__ENCRYPTO__](https://www.encrypto.cs.tu-darmstadt.de/home_page/index.en.jsp) under the supervision of [Prof. Dr.-Ing. Thomas Schneider ](https://www.encrypto.cs.tu-darmstadt.de/team_encrypto/thomas_schneider/index.en.jsp). 
+
 
 
 
 __Grants & Fellowships__
 
-  - PhD research _fellowship_ at Mohammed VI Polytechnic University, __Oct'19 - present__.
-  - Research assistant _fellowship_ at Mohammed VI Polytechnic University, __Oct'18 - Oct'19__.
-  - Student travel _grant_ by the International Association for Cryptologic Research to attend [AsiaCrypt '2022](https://asiacrypt.iacr.org/2022/).
-  - Student travel _grant_ by the International Association for Cryptologic Research to attend [Real World Crypto Symposium '2023](https://rwc.iacr.org/2023/).
-
+  - PhD research fellowship at Mohammed VI Polytechnic University, __2019 -- 2024__.
+  - Research assistant fellowship at Mohammed VI Polytechnic University, __2018 -- 2019__.
+  - Student travel grant by the International Association for Cryptologic Research to attend [AsiaCrypt '2022](https://asiacrypt.iacr.org/2022/).
+  - Student travel grant by the International Association for Cryptologic Research to attend [Real World Crypto Symposium '2023](https://rwc.iacr.org/2023/).
