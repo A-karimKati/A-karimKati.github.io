@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am <span style="color: #4B7A5D; font-weight: 550; background: linear-gradient(45deg, #4B7A5D, #6BAF7D); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5), 2px 2px 4px rgba(0, 0, 0, 0.3);">Karim</span>, a Post-Doctoral Researcher and a member of the [CrySP](https://crysp.uwaterloo.ca/) group at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo.
+I am <span style="color: #4C6D4F; font-weight: 550; background: linear-gradient(45deg, #4C6D4F, #5A7A5E); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Karim</span>, a Post-Doctoral Researcher and a member of the [CrySP](https://crysp.uwaterloo.ca/) group at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo.
 I completed my PhD on <span style="color: #333333;font-weight:450;">Applied Cryptography</span> at [SCCS ](https://www.um6p-cs.ma/en/research/)  Mohammed VI Polytechnic University, under the kind supervision of [Tarik Moataz](https://tarikmoataz.com/). 
 During that time, I conducted research on privacy and Real-World applications of cryptographic primitives with an emphasis 
 on the design and cryptanalysis of efficient Encrypted Search Algorithms (<span style="color: #333333;font-weight:450;">ESA</span>).
