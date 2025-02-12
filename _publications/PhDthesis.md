@@ -1,5 +1,5 @@
 ---
-title: "<strong>PhD Thesis:</strong> Cryptanalysis of Encrypted Search Algorithms: From Theory To Practice"
+title: '<strong>PhD Thesis: Cryptanalysis of Encrypted Search Algorithms: From Theory To Practice</strong>'
 authors: '<strong>Abdelkarim KATI</strong>'
 supervisors: 'Tarik Moataz and Youssef Iraqi'
 type: 'thesis'
