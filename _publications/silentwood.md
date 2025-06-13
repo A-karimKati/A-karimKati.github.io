@@ -5,6 +5,7 @@ type: 'conference'
 booktitle: 'Under-Submission'
 collection: publications
 permalink: /publication/silentwood
+date: 2025-06-01
 year: 2025
 location: 'TBD'
 paperurl: 'TBD'

@@ -5,6 +5,7 @@ type: 'conference'
 booktitle: 'The ACM Cloud Computing Security Workshop (CCSW)'
 collection: publications
 permalink: /publication/relES
+date: 2024-10-14
 year: 2024
 location: 'Salt Lake City, USA'
 paperurl: 'http://A-karimKati.github.io/files/relES.pdf'

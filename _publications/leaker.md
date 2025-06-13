@@ -5,6 +5,7 @@ type: 'conference'
 booktitle: '2022 IEEE 7th European Symposium on Security and Privacy (EuroS&P)'
 collection: publications
 permalink: /publication/leaker
+date: 2022-06-06
 year: 2022
 pages: '90-108'
 location: 'Genoa, Italy'

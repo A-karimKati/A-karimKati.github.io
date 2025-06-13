@@ -5,6 +5,7 @@ type: 'conference'
 booktitle: 'The 24th Privacy Enhancing Technologies Symposium (PETS)'
 collection: publications
 permalink: /publication/maple
+date: 2024-07-15
 year: 2024
 pages: 'Volume 2024 - Issue 1'
 location: 'Bristol, UK'
