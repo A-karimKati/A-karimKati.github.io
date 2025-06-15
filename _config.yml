@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Abdelkarim KATI"
 title_separator          : "-"
 name                     : &name "Abdelkarim KATI"
-description              : &description "PhD candidate at Mohammed VI Polytechnic University."
-url                      : https://A-karimKati.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoctoral Researcher at the University of Waterloo."
+url                      : https://www.akati.me/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "A-karimKati.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Abdelkarim KATI"
   avatar           : "kati.jpg"
-  bio              : "PostDoc at University of Waterloo."
+  bio              : "Postdoctoral Researcher at the University of Waterloo."
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=NphPGKcAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=xfXtDXAAAAAJ&hl=en"  #Replace with my scholar link
   email            : "akati at uwaterloo.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-0528-6997"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
