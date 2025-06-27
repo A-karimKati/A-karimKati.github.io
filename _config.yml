@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abdelkarim KATI"
 title_separator          : "-"
 name                     : &name "Abdelkarim KATI"
-description              : &description "Postdoctoral Researcher at the University of Waterloo."
+description              : &description "Abdelkarim KATI"
 url                      : https://www.akati.me  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "A-karimKati.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : # Add your Google Search Console verification code here
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -62,27 +62,28 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "akati.png"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Abdelkarim KATI" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://scholar.google.com/citations?user=xfXtDXAAAAAJ&hl=en"
+    - "https://orcid.org/0009-0005-0528-6997"
+    - "https://github.com/A-karimKati"
 
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-
+    tracking_id          : # Add your Google Analytics tracking ID here
 
 # Site Author
 author:
   name             : "Abdelkarim KATI"
-  avatar           : "kati.jpg"
-  bio              : "Postdoctoral Researcher at the University of Waterloo."
+  avatar           : "akati.png"
+  bio              : "Postdoctoral Researcher at the University of Waterloo specializing in Applied Cryptography and Encrypted Search"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -152,14 +152,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -171,7 +169,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
@@ -188,7 +185,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
 # Defaults
 defaults:
   # _posts
@@ -202,6 +198,9 @@ defaults:
       comments: true
       share: true
       related: true
+      sitemap:
+        priority: 0.6
+        changefreq: monthly
   # _pages
   - scope:
       path: ""
@@ -209,6 +208,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap:
+        priority: 0.7
+        changefreq: monthly
+  # Homepage priority
+  - scope:
+      path: "_pages/about.md"
+    values:
+      sitemap:
+        priority: 1.0
+        changefreq: monthly
   # _teaching
   - scope:
       path: ""
@@ -218,6 +227,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap:
+        priority: 0.6
+        changefreq: monthly
   # _publications
   - scope:
       path: ""
@@ -227,6 +239,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap:
+        priority: 0.8
+        changefreq: monthly
   # _portfolio
   - scope:
       path: ""
@@ -236,6 +251,9 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      sitemap:
+        priority: 0.5
+        changefreq: yearly
   # _talks
   - scope:
       path: ""
@@ -244,19 +262,20 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      sitemap:
+        priority: 0.7
+        changefreq: monthly
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: America/Toronto # Updated for Waterloo, Canada
 
 # Plugins
 plugins:
@@ -272,7 +291,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
@@ -301,7 +319,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/

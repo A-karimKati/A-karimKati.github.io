@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# Block template/demo content that shouldn't be indexed
+Disallow: /markdown_generator/
+Disallow: /talkmap/map.html
+Disallow: /archive-layout-with-content/
+Disallow: /collection-archive/
+Disallow: /page-archive/
+Disallow: /sitemap/
+Disallow: /year-archive/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /non-menu-page/
+Disallow: /markdown/
+Disallow: /terms/
+
+# Allow important academic content
+Allow: /publications/
+Allow: /talks/
+Allow: /teaching/
+Allow: /cv/
+Allow: /files/
+
+Sitemap: https://www.akati.me/sitemap.xml
