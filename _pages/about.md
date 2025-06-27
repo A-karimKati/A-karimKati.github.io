@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abdelkarim KATI"
+title: ""
 excerpt: "About me"
 author_profile: true
 sitemap:
